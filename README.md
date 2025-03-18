@@ -1,5 +1,5 @@
-## 👋 Hi there, I'm Goo!
-Lifelong learner, passionate **Full-Stack Developer** & **Game Developer** 🎮💻
+## 👋 Hi there, I'm Yudhi!
+Lifelong learner, passionate **Software Engineer**, **Full-Stack Developer** & **Game Developer** 🎮💻
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -14,11 +14,14 @@ Lifelong learner, passionate **Full-Stack Developer** & **Game Developer** 🎮�
   <img src="https://img.shields.io/badge/Framework-Laravel-red?&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Framework-Flutter-blue?&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-Tailwind%20CSS-38B2AC?&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-Bootstrap-7952B3?&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Next.js-black?&logo=next.js&logoColor=white" />
 </p>
 
 #### **🎮 Game Development:**
 <p align="left">
   <img src="https://img.shields.io/badge/Game%20Engine-Unity-black?&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/3D%20Modeling-Blender-F5792A?&logo=blender&logoColor=white" />
 </p>
 
 #### **🔥 Backend & Database:**
@@ -28,10 +31,24 @@ Lifelong learner, passionate **Full-Stack Developer** & **Game Developer** 🎮�
   <img src="https://img.shields.io/badge/Cloud-Firebase-FFCA28?&logo=firebase&logoColor=black" />
 </p>
 
+#### **📱 Mobile & Programming Languages:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Mobile-Kotlin-0095D5?&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-C%23-239120?&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Dart-0175C2?&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Java-007396?&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Language-HTML5-E34F26?&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-CSS3-1572B6?&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?&logo=python&logoColor=white" />
+</p>
+
 #### **🛠 Other Tools:**
 <p align="left">
   <img src="https://img.shields.io/badge/Editor-VSCode-blue?&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Container-Docker-2496ED?&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardware-Arduino-00979D?&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -39,7 +56,7 @@ Lifelong learner, passionate **Full-Stack Developer** & **Game Developer** 🎮�
 ### ✨ About Me
 - 🏗️ Full-Stack Developer | Game Developer
 - 🚀 Currently exploring **AI & Game Physics**
-- 🎯 Working with **Laravel, Flutter, Tailwind CSS, Firebase, MySQL, and Unity**
+- 🎯 Working with **Laravel, Flutter, Tailwind CSS, Firebase, MySQL, Unity, and more**
 - 📚 Passionate about **learning new tech & building awesome projects**
 - 🎨 Enjoys **designing UI, coding games, and developing interactive apps**
 - 🏆 Always looking for **new challenges and collaborations**
@@ -48,7 +65,6 @@ Lifelong learner, passionate **Full-Stack Developer** & **Game Developer** 🎮�
 
 ### 🌐 Let's Connect!
 <p>
-  
   <a href="https://www.instagram.com/yudhiiatmadja/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white" />
   </a>
