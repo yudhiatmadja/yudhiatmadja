@@ -48,13 +48,11 @@ Lifelong learner, passionate **Full-Stack Developer** & **Game Developer** 🎮�
 
 ### 🌐 Let's Connect!
 <p>
-  <a href="https://twitter.com/yours" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/yours/" target="_blank">
+  
+  <a href="https://www.instagram.com/yudhiiatmadja/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://yours.com/" target="_blank">
+  <a href="https://im-yudhi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&logo=firefox&logoColor=white" />
   </a>
 </p>
