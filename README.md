@@ -1,18 +1,20 @@
-# 🌟 Welcome to My Digital Universe! I'm Yudhi
-
+🌟 Welcome to My Digital Universe! I'm Yudhi Atmadja
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Code%20%7C%20Create%20%7C%20Innovate&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Transforming%20Ideas%20into%20Interactive%20Experiences&descSize=16&descAlignY=55" />
 </div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Full-Stack+Developer;🎮+Game+Development+Enthusiast;🤖+AI+%26+Machine+Learning+Explorer;🎨+Creative+Problem+Solver;✨+Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Developer;🎮+Game+Development+Enthusiast;🤖+AI+%26+Machine+Learning+Explorer;🎨+Creative+Problem+Solver;✨+Building+the+Future%2C+One+Line+at+a+Time;🌏+Based+in+Surabaya%2C+Indonesia;💡+Open+Source+Contributor;🔥+Pixel+Art+Creator" alt="Typing SVG" />
 </div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20Views&color=00f5ff&style=for-the-badge&labelColor=000000" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/goonesmile?label=Followers&style=for-the-badge&color=ff6b6b&labelColor=000000" alt="Followers" />
   <img src="https://img.shields.io/github/stars/goonesmile?label=Total%20Stars&style=for-the-badge&color=4ecdc4&labelColor=000000" alt="Stars" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge&labelColor=000000" alt="Available for Hire" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Game%20Dev-blueviolet?style=for-the-badge&labelColor=000000" alt="Focus" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github.com/goonesmile/goonesmile/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <br/>
