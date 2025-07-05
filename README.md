@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Full-Stack+Developer;🎮+Game+Development+Enthusiast;🤖+AI+%26+Machine+Learning+Explorer;🎨+Creative+Problem+Solver;✨+Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Developer;🎮+Game+Development+Enthusiast;🤖+AI+%26+Machine+Learning+Explorer;🎨+Creative+Problem+Solver;✨+Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -152,7 +152,7 @@ const yudhi: Developer = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=goonesmile&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&custom_title=⏰%20Weekly%20Development%20Breakdown" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@goonesmile&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&custom_title=⏰%20Weekly%20Development%20Breakdown" />
 </div>
 
 ---
