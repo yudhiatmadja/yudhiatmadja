@@ -377,7 +377,6 @@ Code Philosophy:
   
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" />
 </div>
 
 ---
