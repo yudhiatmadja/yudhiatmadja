@@ -13,9 +13,7 @@
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Game%20Dev-blueviolet?style=for-the-badge&labelColor=000000" alt="Focus" />
 </div>
 <br/>
-<div align="center">
-  <img src="https://github.com/goonesmile/goonesmile/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+
 
 <br/>
 
@@ -41,12 +39,11 @@ interface Developer {
 const yudhi: Developer = {
   name: "Yudhi Atmadja",
   role: "Full-Stack Developer & Game Creator",
-  location: "Surabaya, Indonesia 🇮🇩",
+  location: "Bojonegoro, Indonesia 🇮🇩",
   passions: [
     "Building scalable web applications",
     "Creating immersive game experiences",
     "Exploring AI/ML possibilities",
-    "Crafting pixel-perfect UIs",
     "Open source contributions"
   ],
   currentlyLearning: [
