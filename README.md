@@ -5,14 +5,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=🚀+Elite+Full-Stack+Developer;🎮+Game+Architecture+Virtuoso;🤖+AI+%26+ML+Innovation+Pioneer;🎨+Digital+Experience+Architect;✨+Crafting+Tomorrow's+Technology+Today;🌏+Indonesia's+Rising+Tech+Star;💡+Open+Source+Champion+%26+Mentor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=🚀+Full-Stack+Developer;🎮+Game+Architecture+Virtuoso;🤖+AI+%26+ML+Innovation+Pioneer;🎨+Digital+Experience+Architect;✨+Crafting+Tomorrow's+Technology+Today;🌏+Indonesia's+Rising+Tech+Star;💡+Open+Source+Champion+%26+Mentor" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20Views&color=00f5ff&style=for-the-badge&labelColor=000000" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/goonesmile?label=Followers&style=for-the-badge&color=ff6b6b&labelColor=000000" alt="Followers" />
   <img src="https://img.shields.io/github/stars/goonesmile?label=Total%20Stars&style=for-the-badge&color=4ecdc4&labelColor=000000" alt="Stars" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Elite%20Projects-brightgreen?style=for-the-badge&labelColor=000000" alt="Available for Hire" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-brightgreen?style=for-the-badge&labelColor=000000" alt="Available for Hire" />
   <img src="https://img.shields.io/badge/Focus-Innovation%20%26%20Excellence-blueviolet?style=for-the-badge&labelColor=000000" alt="Focus" />
 </div>
 
@@ -76,7 +76,7 @@ const yudhi: EliteDeveloper = {
 </td>
 <td width="50%" valign="top">
 
-### 🌟 **Elite Status**
+### 🌟 **Status**
 <img align="right" alt="Coding Mastery" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎯 **Mission:** Building next-generation applications
@@ -137,7 +137,7 @@ const yudhi: EliteDeveloper = {
 ## 📊 GitHub Analytics & Performance Metrics
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=goonesmile&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff6b6b&text_color=ffffff&custom_title=⚡%20Elite%20Performance%20Statistics"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=goonesmile&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff6b6b&text_color=ffffff&custom_title=⚡%20Performance%20Statistics"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goonesmile&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&custom_title=🔥%20Language%20Mastery%20Distribution"/>
 </div>
 
@@ -345,7 +345,7 @@ Code Philosophy:
 ## 🎉 Let's Create Digital Magic Together!
 
 <div align="center">
-  <h3>🚀 Available for Elite Opportunities:</h3>
+  <h3>🚀 Available for Opportunities:</h3>
   <p>
     <img src="https://img.shields.io/badge/🤝-Strategic%20Partnerships-4ecdc4?style=for-the-badge&labelColor=000000" />
     <img src="https://img.shields.io/badge/💼-Premium%20Projects-ff6b6b?style=for-the-badge&labelColor=000000" />
