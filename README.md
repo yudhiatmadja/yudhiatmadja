@@ -2,8 +2,8 @@
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/goonesmile)
-[![GitHub followers](https://img.shields.io/github/followers/goonesmile?label=Followers&style=flat&logo=github)](https://github.com/goonesmile)
+[![Profile Views](https://komarev.com/ghpvc/?username=yudhiatmadja&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/yudhiatmadja)
+[![GitHub followers](https://img.shields.io/github/followers/yudhiatmadja?label=Followers&style=flat&logo=github)](https://github.com/yudhiatmadja)
 [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yudhiiatmadja/)
 
 </div>
@@ -53,8 +53,8 @@ OWASP Top 10 • Web Application Security
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goonesmile&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goonesmile&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yudhiatmadja&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=21600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudhiatmadja&layout=compact&theme=dark&cache_seconds=21600"/>
 </div>
 
 ## 🎯 Current Focus
