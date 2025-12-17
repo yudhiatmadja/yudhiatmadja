@@ -53,7 +53,7 @@ OWASP Top 10 • Web Application Security
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yudhiatmadja&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=21600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yudhiatmadja&show_icons=true&theme=dark&include_all_commits=true&cache_seconds=21600"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudhiatmadja&layout=compact&theme=dark&cache_seconds=21600"/>
 </div>
 
