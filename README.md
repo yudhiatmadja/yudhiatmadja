@@ -110,3 +110,4 @@ Full-Stack Developer & Cybersecurity Specialist
   <br/>
   <i>Feel free to reach out if you want to discuss tech, security, or just chat!</i>
 </div>
+<br>
