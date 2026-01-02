@@ -62,6 +62,7 @@ const yudhi = {
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=fff)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=fff)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=fff)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=fff)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=fff)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=fff)
@@ -121,20 +122,6 @@ const yudhi = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=fff)
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yudhiatmadja&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yudhiatmadja&layout=compact&theme=dark&hide_border=true&langs_count=10&card_width=445)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yudhiatmadja&theme=dark&hide_border=true)
-
-</div>
 
 ---
 
