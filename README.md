@@ -5,14 +5,12 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=yudhiatmadja&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/yudhiatmadja)
 [![GitHub followers](https://img.shields.io/github/followers/yudhiatmadja?label=Followers&style=flat&logo=github)](https://github.com/yudhiatmadja)
 [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yudhiiatmadja/)
-<img
-  src="https://github-readme-stats-five-eosin-48.vercel.app/api/top-langs/?username=yudhiatmadja&layout=compact&theme=dark&langs_count=6"
-  alt="Top Languages"
-/>
+
 
 
 
 </div>
+![Top Languages](https://github-readme-stats-five-eosin-48.vercel.app/api/top-langs/?username=yudhiatmadja&layout=compact&theme=dark&langs_count=6&cache_seconds=86400)
 
 ## 🚀 About Me
 
