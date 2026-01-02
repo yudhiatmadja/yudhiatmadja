@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Yudhi Atmadja
+# Hi, I'm Yudhi Atmadja
 
 **Full-Stack Developer & Cybersecurity Specialist**
 
 Building secure, scalable applications | Offensive & Defensive Security | Clean Code Advocate
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=flat&logoColor=white)](https://ydxlabs.my.id)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logoColor=white)](https://ydxlabs.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yudhoiatmadja/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thisisyudhi01@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yudhiiatmadja/)
@@ -18,7 +18,7 @@ Building secure, scalable applications | Offensive & Defensive Security | Clean 
 
 ---
 
-## 🎯 What I Do
+## What I Do
 
 ```typescript
 const yudhi = {
@@ -29,15 +29,15 @@ const yudhi = {
 };
 ```
 
-- 🌐 Crafting scalable full-stack web & mobile applications
-- 🔐 Specializing in penetration testing and security auditing
-- 🐛 Active bug bounty hunter and vulnerability researcher
-- 🛡️ Implementing SIEM solutions for threat detection
-- 💻 Writing clean, maintainable, and secure code
+- Crafting scalable full-stack web & mobile applications
+- Specializing in penetration testing and security auditing
+- Active bug bounty hunter and vulnerability researcher
+- Implementing SIEM solutions for threat detection
+- Writing clean, maintainable, and secure code
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 ### Frontend Development
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
@@ -124,13 +124,13 @@ const yudhi = {
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yudhiatmadja&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yudhiatmadja&layout=compact&theme=dark&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yudhiatmadja&layout=compact&theme=dark&hide_border=true&langs_count=10&card_width=445)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yudhiatmadja&theme=dark&hide_border=true)
 
@@ -138,16 +138,16 @@ const yudhi = {
 
 ---
 
-## 🏆 Recent Achievements
+## Recent Achievements
 
-- 🥇 Active bug bounty contributor on HackerOne
-- 🎯 CTF player and security researcher
-- 📚 Building open-source security tools
-- 🔐 Contributing to web application security projects
+- Active bug bounty contributor on HackerOne
+- CTF player and security researcher
+- Building open-source security tools
+- Contributing to web application security projects
 
 ---
 
-## 💼 Open for Opportunities
+## Open for Opportunities
 
 I'm always interested in discussing:
 - Full-stack development projects
@@ -155,7 +155,7 @@ I'm always interested in discussing:
 - Open-source collaborations
 - Technical consulting
 
-**Let's connect and build something amazing together!** 🚀
+**Let's connect and build something amazing together.**
 
 ---
 
@@ -163,6 +163,6 @@ I'm always interested in discussing:
 
 *"The only way to do great work is to love what you do"*
 
-**Thanks for visiting my profile!** ⭐
+**Thanks for visiting my profile.**
 
 </div>
