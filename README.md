@@ -21,9 +21,9 @@
 Software Engineer at **Weefer Indonesia**, currently building **Haermes** - a production ERP/HRIS platform handling payroll, attendance, and core business workflows.
 
 What I do best:
-- Build end-to-end features: **React / Next.js + TypeScript** frontend → **C# / ASP.NET Core** or **Go** API → DB (SQL Server / PostgreSQL)
-- Modernize legacy systems: **.NET Framework → ASP.NET Core + Docker** without breaking the business
-- Own features end-to-end: DB design → API → UI → deployment on Linux
+- Build end-to-end features: **React / Next.js + TypeScript** frontend > **C# / ASP.NET Core** or **Go** API > DB (SQL Server / PostgreSQL)
+- Modernize legacy systems: **.NET Framework > ASP.NET Core + Docker** without breaking the business
+- Own features end-to-end: DB design > API > UI > deployment on Linux
 
 **Remote-ready:** async-first communicator, written English daily, comfortable with standups in EU morning / US evening overlap from UTC+7. Used to code reviews, tickets, and documentation.
 
@@ -54,10 +54,10 @@ What I do best:
 
 Fullstack work on live HR modules used daily for payroll closing - VB.NET / C# / DevExpress XAF/XPO / SQL Server:
 
-- **Payroll & Indonesian Tax (PPh 21)** - implemented DTP calculation, Partial Gross-Up scenarios, cross-company mutation tax, fixed inter-company eSPT + Decimal overflow edge cases → fewer payroll discrepancies, safer tax closing
-- **Attendance that unblocks payroll** - fixed Normal+Undertime ≠ 08:00 bug that blocked month-end closing, plus OT duplicate schedules, Undertime/Break lateness, shift history audit trail → closing can proceed on time
-- **Leave data integrity** - prevented duplicate LeaveTransaction (unique index), fixed balance corruption from XPO `.Delete()` bypass, leave adjustment views → balances stay trustworthy
-- **DPLK + ESS + Reports** - DPLK payroll-integrated transactions, dynamic ESS profile filtering, Universal Inbox batch actions, DevExpress salary/bonus reports → less manual input, faster approvals
+- **Payroll & Indonesian Tax (PPh 21)** - implemented DTP calculation, Partial Gross-Up scenarios, cross-company mutation tax, fixed inter-company eSPT + Decimal overflow edge cases > fewer payroll discrepancies, safer tax closing
+- **Attendance that unblocks payroll** - fixed Normal+Undertime ≠ 08:00 bug that blocked month-end closing, plus OT duplicate schedules, Undertime/Break lateness, shift history audit trail > closing can proceed on time
+- **Leave data integrity** - prevented duplicate LeaveTransaction (unique index), fixed balance corruption from XPO `.Delete()` bypass, leave adjustment views > balances stay trustworthy
+- **DPLK + ESS + Reports** - DPLK payroll-integrated transactions, dynamic ESS profile filtering, Universal Inbox batch actions, DevExpress salary/bonus reports > less manual input, faster approvals
 
 > Details are proprietary - happy to walk through architecture & trade-offs on a call.
 
@@ -72,7 +72,7 @@ Fullstack work on live HR modules used daily for payroll closing - VB.NET / C# /
 ## Experience
 
 **Fullstack Software Engineer - Weefer Indonesia** | *Haermes ERP/HRIS*
-- Ship production HR/payroll/attendance features end-to-end: SQL Server → C#/VB.NET API → XAF/React UI → Docker on Linux
+- Ship production HR/payroll/attendance features end-to-end: SQL Server > C#/VB.NET API > XAF/React UI > Docker on Linux
 - Modernize legacy .NET Framework modules to ASP.NET Core + Docker without breaking live payroll
 - Debug high-stakes issues with RCA (Indonesian + English), mirror-DB verification, regression testing
 
@@ -118,4 +118,5 @@ I reply fast and I'm happy to do a short technical chat or take-home.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
 
 </div>
+
 
