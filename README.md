@@ -23,7 +23,7 @@
 - Currently focused on **Go** for large-scale backend systems
 - Informatics graduate, Universitas Muhammadiyah Malang (GPA 3.73)
 - Open to **remote software engineer** roles
-- Contact: [LinkedIn](https://linkedin.com/in/LINKEDIN_USERNAME) • [Email](mailto:you@email.com) • [Portfolio](https://yourdomain.dev)
+- Contact: [LinkedIn](https://linkedin.com/in/yudhiatmadja) • [Email](mailto:yudhiatmadja.t@email.com) • [Portfolio](https://www.ydxlabs.my.id)
 
 ---
 
