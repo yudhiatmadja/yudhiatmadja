@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Taufiqurrahman%20Y.%20Atmadja&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Software%20Engineer%20%E2%80%A2%20.NET%20%2B%20Go%20%2B%20React%20%E2%80%A2%20Open%20to%20Remote%20Worldwide&descSize=16&descAlignY=58" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=4%2B+years+shipping+production+backend+systems;ERP%2FHRIS+used+by+real+businesses+daily;Legacy+.NET+%E2%86%92+ASP.NET+Core+%2B+Docker;Async-friendly+%E2%80%A2+UTC%2B7+overlap+EU%2FUS+ mornings" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Fullstack+engineer+with+backend+depth;ERP-HRIS+in+production%2C+used+daily;Legacy+NET+to+ASP-NET-Core-plus-Docker;Async-friendly%2C+UTC-plus-7%2C+overlap+EU-US" alt="typing" />
 </a>
 
 <br/>
@@ -16,7 +16,7 @@
 
 ---
 
-## Hi, I'm Yudhi 👋 - Fullstack engineer, backend-strong
+## Hi, I'm Yudhi  - Fullstack engineer, backend-strong
 
 Software Engineer at **Weefer Indonesia**, currently building **Haermes** - a production ERP/HRIS platform handling payroll, attendance, and core business workflows.
 
@@ -27,7 +27,7 @@ What I do best:
 
 **Remote-ready:** async-first communicator, written English daily, comfortable with standups in EU morning / US evening overlap from UTC+7. Used to code reviews, tickets, and documentation.
 
-📫 [LinkedIn](https://linkedin.com/in/yudhiatmadja) • [Email](mailto:yudhiatmadja.t@email.com) • [Portfolio](https://www.ydxlabs.my.id)
+ [LinkedIn](https://linkedin.com/in/yudhiatmadja) • [Email](mailto:yudhiatmadja.t@email.com) • [Portfolio](https://www.ydxlabs.my.id)
 
 ---
 
@@ -35,10 +35,10 @@ What I do best:
 
 | | |
 |---|---|
-| 🔧 **Backend APIs** | REST with ASP.NET Core / Go, auth, validation, clean architecture |
-| 🖥️ **Frontend** | React / Next.js + TypeScript + Tailwind - dashboards, forms, ERP screens |
-| 🗄️ **Data** | SQL Server, MySQL, PostgreSQL (Supabase) - schema design, query tuning, migrations |
-| 📦 **Modernization & DevOps** | Legacy .NET migration, Dockerization, Linux deployment, Git workflows |
+|  **Backend APIs** | REST with ASP.NET Core / Go, auth, validation, clean architecture |
+|  **Frontend** | React / Next.js + TypeScript + Tailwind - dashboards, forms, ERP screens |
+|  **Data** | SQL Server, MySQL, PostgreSQL (Supabase) - schema design, query tuning, migrations |
+|  **Modernization & DevOps** | Legacy .NET migration, Dockerization, Linux deployment, Git workflows |
 
 **Core:** `C# • ASP.NET Core • Go • React • Next.js • TypeScript • SQL • Docker` - **Familiar:** `Java • Python`
 
@@ -118,5 +118,6 @@ I reply fast and I'm happy to do a short technical chat or take-home.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
 
 </div>
+
 
 
