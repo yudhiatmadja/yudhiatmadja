@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Taufiqurrahman%20Y.%20Atmadja&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Software%20Engineer%20%E2%80%A2%20.NET%20%2B%20Go%20%2B%20React%20%E2%80%A2%20Open%20to%20Remote%20Worldwide&descSize=16&descAlignY=58" alt="header" />
 
@@ -16,9 +16,9 @@
 
 ---
 
-## Hi, I'm Yudhi 👋 — Fullstack engineer, backend-strong
+## Hi, I'm Yudhi 👋 - Fullstack engineer, backend-strong
 
-Software Engineer at **Weefer Indonesia**, currently building **Haermes** — a production ERP/HRIS platform handling payroll, attendance, and core business workflows.
+Software Engineer at **Weefer Indonesia**, currently building **Haermes** - a production ERP/HRIS platform handling payroll, attendance, and core business workflows.
 
 What I do best:
 - Build end-to-end features: **React / Next.js + TypeScript** frontend → **C# / ASP.NET Core** or **Go** API → DB (SQL Server / PostgreSQL)
@@ -36,11 +36,11 @@ What I do best:
 | | |
 |---|---|
 | 🔧 **Backend APIs** | REST with ASP.NET Core / Go, auth, validation, clean architecture |
-| 🖥️ **Frontend** | React / Next.js + TypeScript + Tailwind — dashboards, forms, ERP screens |
-| 🗄️ **Data** | SQL Server, MySQL, PostgreSQL (Supabase) — schema design, query tuning, migrations |
+| 🖥️ **Frontend** | React / Next.js + TypeScript + Tailwind - dashboards, forms, ERP screens |
+| 🗄️ **Data** | SQL Server, MySQL, PostgreSQL (Supabase) - schema design, query tuning, migrations |
 | 📦 **Modernization & DevOps** | Legacy .NET migration, Dockerization, Linux deployment, Git workflows |
 
-**Core:** `C# • ASP.NET Core • Go • React • Next.js • TypeScript • SQL • Docker` — **Familiar:** `Java • Python`
+**Core:** `C# • ASP.NET Core • Go • React • Next.js • TypeScript • SQL • Docker` - **Familiar:** `Java • Python`
 
 <div align="center">
 
@@ -50,27 +50,33 @@ What I do best:
 
 ---
 
-## Featured Work — Haermes ERP/HRIS (production)
+## Featured Work - Haermes ERP/HRIS (production)
 
-Fullstack work on live HR modules used daily for payroll closing — VB.NET / C# / DevExpress XAF/XPO / SQL Server:
+Fullstack work on live HR modules used daily for payroll closing - VB.NET / C# / DevExpress XAF/XPO / SQL Server:
 
-- **Payroll & Indonesian Tax (PPh 21)** — implemented DTP calculation, Partial Gross-Up scenarios, cross-company mutation tax, fixed inter-company eSPT + Decimal overflow edge cases → fewer payroll discrepancies, safer tax closing
-- **Attendance that unblocks payroll** — fixed Normal+Undertime ≠ 08:00 bug that blocked month-end closing, plus OT duplicate schedules, Undertime/Break lateness, shift history audit trail → closing can proceed on time
-- **Leave data integrity** — prevented duplicate LeaveTransaction (unique index), fixed balance corruption from XPO `.Delete()` bypass, leave adjustment views → balances stay trustworthy
-- **DPLK + ESS + Reports** — DPLK payroll-integrated transactions, dynamic ESS profile filtering, Universal Inbox batch actions, DevExpress salary/bonus reports → less manual input, faster approvals
+- **Payroll & Indonesian Tax (PPh 21)** - implemented DTP calculation, Partial Gross-Up scenarios, cross-company mutation tax, fixed inter-company eSPT + Decimal overflow edge cases → fewer payroll discrepancies, safer tax closing
+- **Attendance that unblocks payroll** - fixed Normal+Undertime ≠ 08:00 bug that blocked month-end closing, plus OT duplicate schedules, Undertime/Break lateness, shift history audit trail → closing can proceed on time
+- **Leave data integrity** - prevented duplicate LeaveTransaction (unique index), fixed balance corruption from XPO `.Delete()` bypass, leave adjustment views → balances stay trustworthy
+- **DPLK + ESS + Reports** - DPLK payroll-integrated transactions, dynamic ESS profile filtering, Universal Inbox batch actions, DevExpress salary/bonus reports → less manual input, faster approvals
 
-> Details are proprietary — happy to walk through architecture & trade-offs on a call. Portfolio: [ydxlabs.my.id](https://www.ydxlabs.my.id)
+> Details are proprietary - happy to walk through architecture & trade-offs on a call.
+
+### Open-source / portfolio (Go + Fullstack)
+
+- **[Thriftin API](https://github.com/yudhiatmadja)** - Marketplace backend: `Go + Gin + pgx + Redis + JWT + Swagger + Docker`. Auth, product/seller handlers, middleware, seed. *Pin repo ini kalau sudah di-push - ini bukti Go production-ready terkuatmu.*
+- **[Goku Framework](https://github.com/yudhiatmadja)** - Laravel-like Go framework: `chi + GORM + Cobra CLI + asynq/Redis + cron`. Routing, validation, migrations/seeders, queue workers. *Shows framework-level depth.*
+- **Portfolio: [ydxlabs.my.id](https://www.ydxlabs.my.id)** - Selected projects, case studies, contact.
 
 ---
 
 ## Experience
 
-**Fullstack Software Engineer — Weefer Indonesia** | *Haermes ERP/HRIS*
+**Fullstack Software Engineer - Weefer Indonesia** | *Haermes ERP/HRIS*
 - Ship production HR/payroll/attendance features end-to-end: SQL Server → C#/VB.NET API → XAF/React UI → Docker on Linux
 - Modernize legacy .NET Framework modules to ASP.NET Core + Docker without breaking live payroll
 - Debug high-stakes issues with RCA (Indonesian + English), mirror-DB verification, regression testing
 
-**Education:** Informatics, Universitas Muhammadiyah Malang — GPA 3.73
+**Education:** Informatics, Universitas Muhammadiyah Malang - GPA 3.73
 
 ---
 
@@ -112,3 +118,4 @@ I reply fast and I'm happy to do a short technical chat or take-home.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
 
 </div>
+
